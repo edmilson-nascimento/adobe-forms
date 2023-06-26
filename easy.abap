@@ -101,7 +101,6 @@ DATA:
   form_name TYPE fpname VALUE 'ZTESTE'.
 
 * GETTING THE DATA
-
 fp_outputparams-preview  = abap_on .
 fp_outputparams-nodialog = abap_on .
 
