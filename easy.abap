@@ -5,9 +5,6 @@
 *&---------------------------------------------------------------------*
 REPORT ytest.
 
-*
-
-
 DATA:
   customer_01     TYPE scustom,
   bookings        TYPE ty_bookings,
