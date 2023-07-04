@@ -15,8 +15,6 @@ DATA:
 fp_outputparams-preview  = abap_on .
 fp_outputparams-nodialog = abap_on .
 
-* PRINT:
-
 * Sets the output parameters and opens the spool job
 CALL FUNCTION 'FP_JOB_OPEN'
   CHANGING
